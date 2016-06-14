@@ -1,0 +1,110 @@
+{
+  "stickers" : [
+    {
+      "filename" : "AppleLogo.sticker"
+    },
+    {
+      "filename" : "ApplePay.sticker"
+    },
+    {
+      "filename" : "AppleStoreIcon.sticker"
+    },
+    {
+      "filename" : "iTunesCard.sticker"
+    },
+    {
+      "filename" : "iPhone6S-6SPlusRoseGold.sticker"
+    },
+    {
+      "filename" : "iPhone6-Silver.sticker"
+    },
+    {
+      "filename" : "BatteryCases.sticker"
+    },
+    {
+      "filename" : "9.7 iPad Pro Kickstand.sticker"
+    },
+    {
+      "filename" : "iPadPro12.7.sticker"
+    },
+    {
+      "filename" : "iPadPro-Family.sticker"
+    },
+    {
+      "filename" : "iPod shuffle silver front and back.sticker"
+    },
+    {
+      "filename" : "AppleWatchNoBand.sticker"
+    },
+    {
+      "filename" : "AppleWatch-Family.sticker"
+    },
+    {
+      "filename" : "AppleWatchEditon.sticker"
+    },
+    {
+      "filename" : "Apple watch silver with blue sport.sticker"
+    },
+    {
+      "filename" : "Apple watch rose gold with lavender front.sticker"
+    },
+    {
+      "filename" : "Apple watch silver with white sport.sticker"
+    },
+    {
+      "filename" : "Apple Watch sport rose gold with lavender sport.sticker"
+    },
+    {
+      "filename" : "Apple watch space gray black sport.sticker"
+    },
+    {
+      "filename" : "AppleTV4.sticker"
+    },
+    {
+      "filename" : "SideAppleTV4.sticker"
+    },
+    {
+      "filename" : "AppleTV3.sticker"
+    },
+    {
+      "filename" : "iPhone6S-Colorsa.sticker"
+    },
+    {
+      "filename" : "iPhoneSE-Colors.sticker"
+    },
+    {
+      "filename" : "GameCenterIcon.sticker"
+    },
+    {
+      "filename" : "MessagesIcon.sticker"
+    },
+    {
+      "filename" : "MessagesError.sticker"
+    },
+    {
+      "filename" : "icloudicon.sticker"
+    },
+    {
+      "filename" : "ios9-podcasts-app-tile.sticker"
+    },
+    {
+      "filename" : "macOSAppStore.sticker"
+    },
+    {
+      "filename" : "ElCapitan.sticker"
+    },
+    {
+      "filename" : "AppleConfigurator.sticker"
+    },
+    {
+      "filename" : "TrackpadGesture.sticker"
+    }
+  ],
+  "info" : {
+    "version" : 1,
+    "author" : "xcode"
+  },
+  "properties" : {
+    "grid-size" : "regular"
+  }
+}
